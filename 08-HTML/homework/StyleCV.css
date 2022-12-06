@@ -1,0 +1,7 @@
+.navegacion {
+     display: flex;
+}
+
+.inline li {
+    display: inline;
+}
